@@ -1,0 +1,7 @@
+This (is) [the] {text} for testing for the symbol balance program.
+Test()
+te(
+]
+[]
+{{}}
+{{}]
